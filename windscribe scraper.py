@@ -16,7 +16,7 @@ login = driver.find_element(By.ID , "login_button")
 
 # paste your account details here
 username.send_keys(" paste you windscribe username account here ")
-password.send_keys(" paste you windscribe username account here ")
+password.send_keys(" paste you windscribe password account here ")
 login.click()
 
 download = driver.find_element_by_partial_link_text("Download")
