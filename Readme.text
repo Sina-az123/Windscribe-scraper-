@@ -1,0 +1,9 @@
+
+for using this app , when you open the app you wil see the first field which is about 
+choosing the chrome driver path section that you can download the chrome drive by opening this link : 
+https://chromedriver.chromium.org/chromedriver-canary
+after downloading this on your computer , you need to copy the path wihch you saved the file in and then paste it 
+in the Chrome driver section
+then in username field you need to paste your windscribe account username and for password field you need to paste your password
+after that choose which config you want and click on download .
+then you will see that your Chrome browser is opened and downloading the files has been started
